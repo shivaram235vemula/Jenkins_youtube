@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Sample Application JSP Page by shiva</title>
+<title>Sample Application JSP Page by shivaram</title>
 </head>
 <body bgcolor=white>
 
